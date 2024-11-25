@@ -1,3 +1,5 @@
+![OMG_RPOD](/img/OMG_RPOD.png)
+
 # OMG RPOD!
 Orbital Mechanic Guide : Rendezvous, Proximity Operation and Docking
 
